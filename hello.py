@@ -1,4 +1,4 @@
 print("hello world")
-print(1+3)
+print("no no no")
 print("hello"*3)
 print("hello world again")
